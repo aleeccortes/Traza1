@@ -18,13 +18,11 @@ Sirve como práctica de **POO**, relaciones **UML** y encapsulación.
 
 ---
 
-## 📥 Clonar y abrir el proyecto
+## 📥 Clonar el proyecto
 
-### 🔹 Opción 1: Usando la terminal
 
-1. Abrir la terminal en IntelliJ (o PowerShell).
+1. Abrir la terminal en IntelliJ.
 2. Ejecutar el siguiente comando:
 
-```bash
-git clone https://github.com/tu-usuario/TpTraza1.git
-cd TpTraza1
+git clone https://github.com/aleeccortes/Traza1.git
+
